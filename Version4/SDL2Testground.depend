@@ -794,3 +794,65 @@
 	<stdlib.h>
 	<math.h>
 
+1426907160 source:c:\users\rafael\tareafinal\version4\enemigo.cpp
+	"Enemigo.h"
+
+1426907160 c:\users\rafael\tareafinal\version4\enemigo.h
+	"Personaje.h"
+
+1426907170 c:\users\rafael\tareafinal\version4\personaje.h
+	<SDL.h>
+	<SDL_image.h>
+	<vector>
+	<list>
+	<iostream>
+	<map>
+
+1426907805 source:c:\users\rafael\tareafinal\version4\enemigoazul.cpp
+	"EnemigoAzul.h"
+	<stdlib.h>
+	<math.h>
+
+1426907160 c:\users\rafael\tareafinal\version4\enemigoazul.h
+	"Enemigo.h"
+	<fstream>
+
+1426909473 source:c:\users\rafael\tareafinal\version4\enemigorojo.cpp
+	"EnemigoRojo.h"
+
+1426908759 c:\users\rafael\tareafinal\version4\enemigorojo.h
+	<fstream>
+	"Enemigo.h"
+
+1426909473 source:c:\users\rafael\tareafinal\version4\enemigoverde.cpp
+	"EnemigoVerde.h"
+
+1426908825 c:\users\rafael\tareafinal\version4\enemigoverde.h
+	<fstream>
+	"Enemigo.h"
+
+1426825662 source:c:\users\rafael\tareafinal\version4\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	<list>
+	"Sho.h"
+	"EnemigoAzul.h"
+	"EnemigoVerde.h"
+	"EnemigoRojo.h"
+	<stdlib.h>
+	<math.h>
+
+1426908575 c:\users\rafael\tareafinal\version4\sho.h
+	<fstream>
+	"Personaje.h"
+
+1426907160 source:c:\users\rafael\tareafinal\version4\personaje.cpp
+	"Personaje.h"
+
+1426908622 source:c:\users\rafael\tareafinal\version4\sho.cpp
+	"Sho.h"
+	<stdlib.h>
+	<math.h>
+

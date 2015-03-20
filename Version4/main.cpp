@@ -18,7 +18,7 @@ SDL_Renderer* renderer;
 SDL_Event Event;
 SDL_Texture *background;
 SDL_Rect rect_background;
-int opcion=0, Puntaje=0, marca=0, nm;
+int opcion=0, Puntaje=0, Marca=0, nm;
 
 void loopJuego()
 {
@@ -276,8 +276,8 @@ int main( int argc, char* args[] )
     ifstream in("Puntos.txt");
     int nm;
     in>>nm;
-    marca = nm;
-    cout<<marca<<endl;
+    Marca = nm;
+    cout<<Marca<<endl;
     in.close();
 
     mainMenu();
