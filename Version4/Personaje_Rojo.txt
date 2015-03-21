@@ -1,0 +1,16 @@
+ANIMACION_IDLE_RIGHT
+{
+    EnemigoRojo/standing/1.png
+    EnemigoRojo/standing/2.png
+    EnemigoRojo/standing/3.png
+    EnemigoRojo/standing/4.png
+
+}
+
+ANIMACION_IDLE_RIGHT
+{
+    EnemigoRojo/standing_left/1.png
+    EnemigoRojo/standing_left/2.png
+    EnemigoRojo/standing_left/3.png
+    EnemigoRojo/standing_left/4.png
+}

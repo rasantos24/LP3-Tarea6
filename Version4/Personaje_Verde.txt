@@ -1,0 +1,14 @@
+ANIMACION_IDLE_RIGHT
+{  
+    EnemigoVerde/standing/1.png
+    EnemigoVerde/standing/2.png
+    EnemigoVerde/standing/3.png
+    EnemigoVerde/standing/4.png
+}
+ANIMACION_IDLE_RIGHT
+{
+    EnemigoVerde/standing_left/1.png
+    EnemigoVerde/standing_left/2.png
+    EnemigoVerde/standing_left/3.png
+    EnemigoVerde/standing_left/4.png
+}
